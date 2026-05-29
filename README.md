@@ -11,7 +11,7 @@ SIEM threat hunting, malware triage и DFIR artifacts.
 - triage phishing-писем;
 - анализ Windows Event Logs и Sysmon;
 - расследование Kerberos/NTLM/AD-активности;
-- Linux log analysis;
+- Linux logs;
 - работа с SIEM;
 - базовый malware triage;
 - анализ endpoint/DFIR artifacts.
