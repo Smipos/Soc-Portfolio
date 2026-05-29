@@ -21,7 +21,6 @@ SIEM threat hunting, malware triage и DFIR artifacts.
 | Раздел | Описание |
 |---|---|
 | Featured Case Studies | Лучшие оформленные расследования |
-| Skills Matrix | Карта навыков и покрытых техник |
 | Lab Index | Полный список лабораторных работ |
 | Tools | Использованные инструменты |
 
