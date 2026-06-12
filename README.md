@@ -39,7 +39,7 @@ SIEM threat hunting, malware triage и DFIR artifacts.
 
 | Категория | Выполнено |
 |---|---:|
-| Phishing | 1 / 5 |
+| Phishing | 2 / 5 |
 | Network Forensics | 0 / 5 |
 | Windows| 0 / 5 |
 | Linux | 0 / 5 |
