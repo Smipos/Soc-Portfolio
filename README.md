@@ -14,18 +14,20 @@
 
 ## Лабораторные работы
 
-### Windows
+### ![Windows](https://img.shields.io/badge/Windows-Event%20Logs%20%26%20Sysmon-0078d7?style=for-the-badge&labelColor=30363d)
 
 <details>
   <summary><strong>Logjammer</strong></summary>
 </details>
 
-### Linux
+### ![Linux](https://img.shields.io/badge/Linux-Forensics%20%26%20Logs-f59e0b?style=for-the-badge&labelColor=30363d)
+
 <details>
   <summary><strong>Brutus</strong></summary>
 </details>
 
-### AD
+### ![AD](https://img.shields.io/badge/AD-Active%20Directory-7c3aed?style=for-the-badge&labelColor=30363d)
+
 <details>
   <summary><strong>Campfire 1</strong></summary>
 </details>
@@ -42,7 +44,8 @@
   <summary><strong>Reaper</strong></summary>
 </details>
 
-### SIEM
+### ![SIEM](https://img.shields.io/badge/SIEM-Detection%20%26%20Investigation-2563eb?style=for-the-badge&labelColor=30363d)
+
 <details>
   <summary><strong>Gold Southfield</strong></summary>
 </details>
@@ -51,7 +54,8 @@
   <summary><strong>Kerberoasted</strong></summary>
 </details>
 
-### Network
+### ![Network](https://img.shields.io/badge/Network-Traffic%20Analysis-16a34a?style=for-the-badge&labelColor=30363d)
+
 <details>
   <summary><strong>Danabot</strong></summary>
 </details>
@@ -60,7 +64,8 @@
   <summary><strong>XLMRat</strong></summary>
 </details>
 
-### Phishing
+### ![Phishing](https://img.shields.io/badge/Phishing-Email%20Analysis-dc2626?style=for-the-badge&labelColor=30363d)
+
 <details>
   <summary><strong>Phishing Analysis</strong></summary>
 </details>
