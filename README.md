@@ -13,7 +13,7 @@
 - работа с SIEM
 
 ## Лабораторные работы
-labs/05-network/01-danabot/screens/01.png
+
 ### Windows
 
 <details>
