@@ -1,48 +1,71 @@
 # SOC Analyst Lab Portfolio
 
-Портфолио практических расследований по SOC / Blue Team:
-phishing triage, network forensics, Windows Event Logs, Sysmon, Linux logs,
-SIEM threat hunting, malware triage и DFIR artifacts.
+Портфолио практических расследований по SOC / Blue Team.
 
 ## Цель репозитория
 
-Показать практические навыки расследования инцидентов уровня SOC L1:
-- анализ сетевого трафика;
-- triage phishing-писем;
-- анализ Windows Event Logs и Sysmon;
-- расследование Kerberos/NTLM/AD-активности;
-- Linux logs;
-- работа с SIEM;
-- базовый malware triage;
-- анализ endpoint/DFIR artifacts.
+Показать практические навыки расследования базовых инцидентов
+- анализ сетевого трафика
+- анализ phishing-писем
+- анализ Windows Event Logs и Sysmon
+- анализ типовых AD-атак
+- анализ логов Linux
+- работа с SIEM
 
-## Быстрая навигация
+## Лабораторные работы
+labs/05-network/01-danabot/screens/01.png
+### Windows
 
-| Раздел | Описание |
-|---|---|
-| Featured Case Studies | Лучшие оформленные расследования |
-| Lab Index | Полный список лабораторных работ |
-| Tools | Использованные инструменты |
+<details>
+  <summary><strong>Logjammer</strong></summary>
+</details>
 
-## Featured Case Studies
+### Linux
+<details>
+  <summary><strong>Brutus</strong></summary>
+</details>
 
-| Кейс | Тип расследования | Ключевые навыки |
-|---|---|---|
-| BlueSky Ransomware | Ransomware / PCAP / Windows Logs | Timeline, IOC, Event Viewer, network forensics |
-| Reaper | NTLM Relay / LLMNR Poisoning | SMB, NTLMv2, Windows Security Logs, PCAP |
-| Logjammer | Windows Log Analysis | PowerShell logs, Defender, Firewall, scheduled tasks |
-| Hammered | Linux Investigation | auth.log, grep, awk, timeline, persistence |
-| LockBit | DFIR / Ransomware | Registry, PowerShell, Windows artifacts |
-| Boss Of The SOC v1 | SIEM Threat Hunting | Splunk, attack chain, MITRE mapping |
+### AD
+<details>
+  <summary><strong>Campfire 1</strong></summary>
+</details>
 
-## Текущий прогресс
+<details>
+  <summary><strong>Campfire 2</strong></summary>
+</details>
 
-| Категория | Выполнено |
-|---|---:|
-| Phishing | 2 / 5 |
-| Network Forensics | 0 / 5 |
-| Windows| 1 / 5 |
-| Linux | 0 / 5 |
-| Threat Hunting | 0 / 5 |
-| Malware Triage | 0 / 5 |
-| DFIR Artifacts | 0 / 5 |
+<details>
+  <summary><strong>Noxious</strong></summary>
+</details>
+
+<details>
+  <summary><strong>Reaper</strong></summary>
+</details>
+
+### SIEM
+<details>
+  <summary><strong>Gold Southfield</strong></summary>
+</details>
+
+<details>
+  <summary><strong>Kerberoasted</strong></summary>
+</details>
+
+### Network
+<details>
+  <summary><strong>Danabot</strong></summary>
+</details>
+
+<details>
+  <summary><strong>XLMRat</strong></summary>
+</details>
+
+### Phishing
+<details>
+  <summary><strong>Phishing Analysis</strong></summary>
+</details>
+
+<details>
+  <summary><strong>Phishing Analysis 2</strong></summary>
+</details>
+
